@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bubblelab/static/css/main.848d95a3.css",
+    "main.js": "/bubblelab/static/js/main.8bbfd3d3.js",
+    "static/media/cafevideo.mp4": "/bubblelab/static/media/cafevideo.2409e3356d56efac77f8.mp4",
+    "static/media/bg.png": "/bubblelab/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/bubblelab/static/media/welcome.e9d421180c9d0399ac08.png",
+    "static/media/gallery05.png": "/bubblelab/static/media/gallery05.71b76ade95c64e025f0f.png",
+    "static/media/gallery01.png": "/bubblelab/static/media/gallery01.6938f41f157a668d5fbf.png",
+    "static/media/menu.png": "/bubblelab/static/media/menu.48dcfbe148cd6c766627.png",
+    "static/media/gallery03.png": "/bubblelab/static/media/gallery03.9f1b22eb82ee255fcfc2.png",
+    "static/media/gallery02.png": "/bubblelab/static/media/gallery02.ed9ab7bfc6f1cf55fafc.png",
+    "static/media/gallery04.png": "/bubblelab/static/media/gallery04.60875a2f92eed0192519.png",
+    "static/media/drink.png": "/bubblelab/static/media/drink.278a7e22e541314d6bd7.png",
+    "static/media/bubbles.png": "/bubblelab/static/media/bubbles.ce49106f524219c7bc40.png",
+    "static/media/bubblelab.png": "/bubblelab/static/media/bubblelab.a848091ae1fc3e6f9cb5.png",
+    "static/media/lab.png": "/bubblelab/static/media/lab.9c8571426bbf529b5d6f.png",
+    "index.html": "/bubblelab/index.html",
+    "main.848d95a3.css.map": "/bubblelab/static/css/main.848d95a3.css.map",
+    "main.8bbfd3d3.js.map": "/bubblelab/static/js/main.8bbfd3d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.848d95a3.css",
+    "static/js/main.8bbfd3d3.js"
+  ]
+}
